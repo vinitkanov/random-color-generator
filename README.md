@@ -7,7 +7,7 @@ The **Random Color Generator** is a simple web tool that generates a random colo
 ## Demo
 
 To see the live version of the project, visit the following link:  
-[Random Color Generator Demo](#)
+[Random Color Generator Demo](https://randomcolorgeneratorusingjs.netlify.app/)
 
 ## Features
 
